@@ -1,0 +1,9 @@
+$ python degrees.py large
+Loading data...
+Data loaded.
+Name: Tom Cruise
+Name: Robin Wright
+3 degrees of separation.
+1: Tom Cruise and kevin Bacon starred in A Few Good Men 
+2: Kevin Bacon and Tom Hanks starred in Apollo 13 
+3: Tom Hanks and Robin Wright starred in 
